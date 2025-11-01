@@ -2,19 +2,21 @@
 
 ## 🚀 Data Engineer | Database Developer | Big Data Innovator 🚀
 
-I am a passionate Data Engineer with a deep interest in transforming raw data into valuable insights. My expertise lies in building robust data pipelines, designing scalable ETL processes, and working with Big Data technologies to empower data-driven decision-making.
+I’m a passionate Data Engineer with a strong interest in transforming raw data into meaningful insights through cloud-based, scalable, and automated data pipelines.
 
-In the modern world, data is the new oil, and as a Data Engineer, I strive to refine and process this oil to fuel innovation. With experience in tools like **Azure Synapse Analytics, Databricks, Apache Spark, SQL, Python, AWS, and Postgres**, I am equipped to handle large datasets and complex data architectures. My journey in data engineering has allowed me to work with various data formats like **CSV, Parquet**, and engage in cloud processing using platforms like **Microsoft Azure**.
+I specialize in designing and developing ETL/ELT workflows, serverless data architectures, and real-time analytics solutions on AWS and Azure. With expertise in tools like AWS Glue, Lambda, Redshift, S3, Azure Data Factory, Databricks, Synapse Analytics, and PySpark, I love building systems that empower data-driven decision-making.
 
-I am always eager to learn new technologies and apply them in real-world projects, continuously pushing the boundaries of what data can achieve.
+In today’s world, data is the new oil, and as a data engineer, I strive to refine and process it to fuel innovation and intelligence. My experience spans across handling large-scale datasets in formats like CSV, Parquet, and JSON, integrating APIs, and orchestrating data workflows in multi-cloud environments.
+
+I’m constantly exploring AI-driven data engineering, automation, and big data frameworks to create smarter and more efficient data ecosystems.
 
 Certainly! Here’s how you can present your daily tools with symbols, following the same style:
 
 ## 🛠️ Tools & Technology I Use Daily
 
-- **🛢️ Databases:** SQL, PostgreSQL, MySQL
-- **☁️ Cloud Services:** Azure
-- **💾 Cloud Storage:** Azure Blob Storage
+- **🛢️ Databases:** SQL, PostgreSQL, MySQL, Redshift
+- **☁️ Cloud Services:**AWS (Glue, Lambda, S3, Redshift, CloudWatch), Azure (Data Factory, Databricks, Synapse, Data Lake)
+- **💾 Cloud Storage:** AWS S3, Azure Blob Storage
 - **🐳 Containerization:** Docker, Kubernetes
 - **🐘 Big Data:** Hadoop, Apache Spark, PySpark
 - **🖥️ IDEs:** VS Code, Jupyter Notebook
